@@ -26,18 +26,19 @@ html,body{
 
 .logo
 {
-  height: 56px;
-  padding: 2px 10px;
+  height: 70px;
+  padding: 1px 10px;
 }
 
 .button {
   width: 95px;
-  height: 40px;
+  height: 35px;
   font-family: "Raleway", sans-serif;
   font-size: 10px;
   font-weight: 400;
   border-radius: 45px;
   box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
+  margin: 1px;
   }
 
 .center
@@ -74,7 +75,9 @@ html,body{
   color: #2E5D87;
   font-weight: 700;
 }
-
+.three{
+  background-color: #FFFFFF;
+}
 .log-in {
   text-align: center;
   font-family: "Raleway", sans-serif;
@@ -111,6 +114,64 @@ html,body{
   color: #2E5D87;
 }
 
+#db-boxes{
+  position: relative;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  padding: 20px;
+  width: 1000px;
+  height: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
+  top: 10;
+}
+
+#formboxes{
+  position: relative;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  padding: 20px;
+  width: 700px;
+  height: 3000px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
+}
+
+.vertical{
+  border-left: 6px solid black;
+  height: 200px;
+  position:absolute;
+  left: 50%;
+  padding: 1px;
+}
+
+.bankname{
+  position: absolute;
+  font-family: "Raleway", sans-serif;
+  font-size: 4vh;
+  top: 190px;
+  left: 400;
+  width: 0px;
+  height: 0px;
+}
+
+.getaloan
+
+.alignleft{
+  float: left;
+}
+
+.alignright{
+  float:right;
+}
+
+
+.dbrow{
+  display: flex;
+  top: auto;
+}
 .row {
   display: flex;
 }
