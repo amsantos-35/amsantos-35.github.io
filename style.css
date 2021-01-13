@@ -132,8 +132,8 @@ html,body{
   border-radius: 8px;
   background-color: #FFFFFF;
   padding: 20px;
-  width: 700px;
-  height: 3000px;
+  width: 1300px;
+  height: 1700px;
   margin-left: auto;
   margin-right: auto;
   box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
@@ -298,7 +298,7 @@ html,body{
     }
 
 .submit-button {
-      background-color: #FFFFFF;
+      background-color: #8CE7B2;
       width: 95px;
       height: 40px;
       font-family: "Raleway", sans-serif;
