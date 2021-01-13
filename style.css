@@ -114,12 +114,12 @@ html,body{
   color: #2E5D87;
 }
 
-#db-boxes{
+#boxes{
   position: relative;
   border-radius: 8px;
   background-color: #FFFFFF;
   padding: 20px;
-  width: 1000px;
+  width: 1050px;
   height: 550px;
   margin-left: auto;
   margin-right: auto;
@@ -228,6 +228,14 @@ html,body{
   text-align: center;
   font-family: "Raleway", sans-serif;
   font-size: 2vh;
+  color: #000000;
+  font-weight: 200;
+}
+
+.loanh5small{
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-size: 3vh;
   color: #000000;
   font-weight: 200;
 }
