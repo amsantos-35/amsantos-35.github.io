@@ -31,7 +31,7 @@ html,body{
 }
 
 .button {
-  width: 95px;
+  width: 100px;
   height: 35px;
   font-family: "Raleway", sans-serif;
   font-size: 10px;
@@ -147,18 +147,6 @@ html,body{
   padding: 1px;
 }
 
-.bankname{
-  position: absolute;
-  font-family: "Raleway", sans-serif;
-  font-size: 4vh;
-  top: 190px;
-  left: 400;
-  width: 0px;
-  height: 0px;
-}
-
-.getaloan
-
 .alignleft{
   float: left;
 }
@@ -202,6 +190,117 @@ html,body{
   box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
   align-content: center;
   }
+
+.dbh2left{
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-size: 5vh;
+  color: #000000;
+  font-weight: 1000;
+}
+
+.dbh2leftid{
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-size: 4vh;
+  color: #000000;
+  font-weight: 100;
+}
+
+.dbh2leftlite{
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-size: 5vh;
+  color: #000000;
+  font-weight: 200;
+}
+
+
+.dbh2right{
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 5vh;
+  color: #000000;
+  font-weight: 1000;
+}
+
+.dbh5right{
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 2vh;
+  color: #000000;
+  font-weight: 200;
+}
+
+.view-button {
+    background-color: #85C1F9;
+    width: 95px;
+    height: 40px;
+    font-family: "Raleway", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    border-radius: 45px;
+    box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
+    align-content: center;
+    }
+
+.apply-button {
+    background-color: #7ACFCB;
+    width: 95px;
+    height: 40px;
+    font-family: "Raleway", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    border-radius: 45px;
+    box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
+    align-content: center;
+}
+
+.formh2{
+  font-family: "Raleway", sans-serif;
+  font-size: 4vh;
+  color: #2E5D87;
+  font-weight: 700;
+}
+
+.formh3{
+  font-family: "Raleway", sans-serif;
+  font-size: 3vh;
+  color: #2E5D87;
+  font-weight: 700;
+}
+
+.formh6{
+  font-family: "Raleway", sans-serif;
+  font-size: 2vh;
+  color: #615F5F;
+  font-weight: 700;
+}
+
+.back-button {
+    background-color: #D6D3D3;
+    width: 95px;
+    height: 40px;
+    font-family: "Raleway", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    border-radius: 45px;
+    box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
+    align-content: center;
+    }
+
+.submit-button {
+      background-color: #FFFFFF;
+      width: 95px;
+      height: 40px;
+      font-family: "Raleway", sans-serif;
+      font-size: 10px;
+      font-weight: 400;
+      border-radius: 45px;
+      box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
+      align-content: center;
+      }
+
 
   .popup {
     position: relative;
@@ -302,4 +401,3 @@ html,body{
   {
     text-align:center
   }
-}
